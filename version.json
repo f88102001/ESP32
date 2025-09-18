@@ -1,5 +1,5 @@
 
 {
-  "latest": "最新版本的序號",
-  "bin": "最新版本的bin名稱"
+  "latest": "2.3.4",
+  "bin": "OTAWebUpdater.ino 2.3.4.bin"
 }
